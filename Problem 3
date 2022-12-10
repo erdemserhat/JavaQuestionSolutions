@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Third {
 
+	//Problem :get two bounds from user and sort prime numbers in respective range from least to greatest then show how many prime numbers exist.
+
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Please enter the first border");

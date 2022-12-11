@@ -2,7 +2,7 @@ package second;
 
 import java.math.BigInteger;
 
-public class Ninth {
+public class NinthProblem {
 
 	/*
 	 * The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.

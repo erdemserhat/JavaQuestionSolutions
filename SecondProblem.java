@@ -1,6 +1,6 @@
 package second;
 
-public class Second {
+public class SecondProblem {
 
 	public static void main(String[] args) {
 		/*

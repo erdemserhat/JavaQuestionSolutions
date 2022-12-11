@@ -2,7 +2,7 @@ package second;
 
 import java.util.Scanner;
 
-public class Third {
+public class ThirdProblem {
 
 	//Problem :get two bounds from user and sort prime numbers in respective range from least to greatest then show how many prime numbers exist.
 

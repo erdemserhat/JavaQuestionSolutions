@@ -2,7 +2,7 @@ package second;
 
 import java.math.BigInteger;
 
-public class Tenth {
+public class TenthProblem {
 
 	/*
 	 * n! means n × (n − 1) × ... × 3 × 2 × 1

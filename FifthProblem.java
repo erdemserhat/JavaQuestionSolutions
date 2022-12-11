@@ -2,7 +2,7 @@ package second;
 
 import java.math.BigInteger;
 
-public class Fifth {
+public class FifthProblem {
 
 	// The prime factors of 13195 are 5, 7, 13 and 29.
 
